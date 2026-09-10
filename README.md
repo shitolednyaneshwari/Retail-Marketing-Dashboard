@@ -33,9 +33,9 @@ The dashboard provides useful insights into sales, orders, profit, customers, br
 - Detailed Sales Table
 ## 📊 Dashboard Preview
 ### Overview
-![Retail Marketing Dashboard](Dashboard/Overview.png)
+![Retail Marketing Dashboard](overview.png)
 ### Summary
-![Retail Marketing Dashboard Summary](Dashboard/Summary.png)
+![Retail Marketing Dashboard Summary](Summary.png)
 ## 🔍 Key Insights
 - Grocery is one of the leading sales categories.
 - Consumer customers contribute the largest share of sales.
